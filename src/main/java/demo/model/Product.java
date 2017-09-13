@@ -32,7 +32,7 @@ public class Product {
 		this.productSku = productSku;
 	}
 
-	public String price() {
+	public String getPrice() {
 		return price;
 	}
 
