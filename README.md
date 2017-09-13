@@ -9,4 +9,4 @@ $ mvn Spring-Boot:run
 
 API can be reached at
 
-localhost:8080/persons
+localhost:8080/product
